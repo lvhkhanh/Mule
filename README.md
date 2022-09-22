@@ -1,6 +1,7 @@
 # Mule
 ## Certifications
 - [x] [MuleSoft Developer Level 1](https://github.com/lvhkhanh/Mule/files/9594153/report.1._KhanhLVH_MCD.pdf)
+- [x] [Ultimate Mulesoft Certified Platform Architect Course - MCPA](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9451b309-37f1-472a-9ffc-8edfc197bfc5.pdf)
 - [ ] https://www.udemy.com/course/mule4-mcd-level2/?couponCode=MCD-L2-SEP-2022
 - [ ] http://muletutorials.com/mule4/vs-Mule-3.html
 - [x] https://www.tutorialspoint.com/mulesoft/index.htm
