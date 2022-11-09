@@ -2,6 +2,7 @@
 ## Certifications
 - [x] [MuleSoft Developer Level 1](https://github.com/lvhkhanh/Mule/files/9594153/report.1._KhanhLVH_MCD.pdf)
 - [x] [MuleSoft Certified Developer - Level 2 - Preparation Course](https://www.udemy.com/certificate/UC-eeec800a-1a4f-4aa2-bd96-3a8da09e2aab/)
+- [x] MuleSoft Certified Integration Associate
 - [ ] [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2)
 - [ ] [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1)
 - [ ] [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1)
