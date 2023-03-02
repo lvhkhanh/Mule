@@ -18,6 +18,7 @@
 ## Books
 - [ ] MuleSoft for Salesforce developers
 ## Tools
+- Encrypt properties http://security-update-site-1.4.s3.amazonaws.com
 ### Postman
 ### SOAP UI
 ### AnyPoint Studio
