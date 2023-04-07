@@ -15,6 +15,8 @@
 - [x] Become the Ultimate Certified MuleSoft Architect - MCIA/MCPA https://udemy.com/certificate/UC-2ffc49cf-38dd-4ee3-8e7b-45c851bbf678/
 - [x] MCIA- Mulesoft Certified Integration Architect course https://www.udemy.com/certificate/UC-b2e1c318-c33f-4b0f-87f4-d44856970dc6/
 - [ ] [MuleSoft Certified Integration Foundations](https://training.mulesoft.com/certification/foundations-integration)
+- [x] Ultimate Mulesoft Certified Platform Architect Course - MCPA https://fpt-software.udemy.com/certificate/UC-9451b309-37f1-472a-9ffc-8edfc197bfc5/ [KhanhLVH1_ Ultimate Mulesoft Certified Platform Architect Course - MCPA_UC-9451b309-37f1-472a-9ffc-8edfc197bfc5.pdf](https://github.com/lvhkhanh/Mule/files/11175303/KhanhLVH1_.Ultimate.Mulesoft.Certified.Platform.Architect.Course.-.MCPA_UC-9451b309-37f1-472a-9ffc-8edfc197bfc5.pdf)
+
 ## Courses
 - https://fpt-software.udemy.com/course/mulesoft-an-in-depth-extensive-tutorial-for-beginners
 ## Books
