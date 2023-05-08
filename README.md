@@ -7,6 +7,8 @@
 - [ ] [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1)
 - [ ] [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1)
 - [x] [Ultimate Mulesoft Certified Platform Architect Course - MCPA](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9451b309-37f1-472a-9ffc-8edfc197bfc5.pdf)
+- [x] [MuleSoft Certified Integration Architect Course - MCIA](https://fpt-software.udemy.com/certificate/UC-3846b88e-772a-464e-b011-25f126176965/) [UC-3846b88e-772a-464e-b011-25f126176965.pdf](https://github.com/lvhkhanh/Mule/files/11421222/UC-3846b88e-772a-464e-b011-25f126176965.pdf)
+
 - [ ] https://www.udemy.com/course/mule4-mcd-level2/?couponCode=MCD-L2-SEP-2022
 - [ ] http://muletutorials.com/mule4/vs-Mule-3.html
 - [x] https://www.tutorialspoint.com/mulesoft/index.htm
