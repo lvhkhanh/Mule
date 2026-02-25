@@ -1,4 +1,17 @@
 # Mule
+## Performance
+- [ ] https://docs.mulesoft.com/mule-runtime/latest/tuning-guide
+- [ ] Stream
+- [ ] https://docs.mulesoft.com/mule-runtime/latest/tuning-caching
+- [ ] avoid array find/filter/firstWith convert to use object.key
+- [ ] use application/java as default, avoid application/json(indent false)
+- [ ] use DataWeave avoid components
+- [ ] use bulk
+- [ ] use Batch Job as ETL pattern
+- [ ] use Pooling Profile
+- [ ] use single transform, avoid sequence transform
+- [ ] use direct value, avoid create variables
+- [ ] map then mapObject and iterate, avoid iterate then mapObject
 ## Certifications
 - [x] [MuleSoft Developer Level 1](https://github.com/lvhkhanh/Mule/files/9594153/report.1._KhanhLVH_MCD.pdf)
 - [x] [MuleSoft Certified Developer - Level 2 - Preparation Course](https://www.udemy.com/certificate/UC-eeec800a-1a4f-4aa2-bd96-3a8da09e2aab/)
